@@ -1,0 +1,2078 @@
+{
+  "collection": "$BROS",
+  "symbol": "BROS",
+  "STATIC_COLORS": [
+    "000",
+    "000",
+    "000",
+    "000",
+    "061",
+    "081",
+    "05f",
+    "17f",
+    "39f",
+    "4df",
+    "fc0",
+    "ff8",
+    "0b4",
+    "5f5",
+    "d23",
+    "f43",
+    "fff",
+    "bbb",
+    "456",
+    "111",
+    "421",
+    "732",
+    "fdb",
+    "2c7",
+    "f80",
+    "987",
+    "063",
+    "9df"
+  ],
+  "SKIN_PALETTES": [
+    [
+      22,
+      25,
+      24,
+      20
+    ],
+    [
+      25,
+      22,
+      21,
+      19
+    ],
+    [
+      24,
+      25,
+      20,
+      19
+    ],
+    [
+      31,
+      25,
+      21,
+      19
+    ],
+    [
+      16,
+      17,
+      18,
+      19
+    ],
+    [
+      27,
+      8,
+      7,
+      4
+    ]
+  ],
+  "LAYERS": [
+    {
+      "category": "Background",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Cronos",
+          "rarity": "Common",
+          "bytes": [
+            4,
+            0,
+            0,
+            64,
+            64,
+            134,
+            0,
+            0,
+            24,
+            0,
+            0,
+            38
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Fist Bump",
+          "rarity": "Common",
+          "bytes": [
+            5,
+            0,
+            0,
+            64,
+            64,
+            136,
+            0,
+            0,
+            27,
+            28,
+            0,
+            17
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Market",
+          "rarity": "Uncommon",
+          "bytes": [
+            4,
+            0,
+            0,
+            64,
+            64,
+            14,
+            5,
+            45,
+            5,
+            12
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Green Up",
+          "rarity": "Uncommon",
+          "bytes": [
+            5,
+            0,
+            0,
+            64,
+            64,
+            12,
+            6,
+            39,
+            5,
+            17
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Red Down",
+          "rarity": "Rare",
+          "bytes": [
+            4,
+            0,
+            0,
+            64,
+            64,
+            14,
+            5,
+            17,
+            6,
+            39
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Gold",
+          "rarity": "Rare",
+          "bytes": [
+            5,
+            0,
+            0,
+            64,
+            64,
+            74,
+            52,
+            12,
+            9
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Moon",
+          "rarity": "Epic",
+          "bytes": [
+            4,
+            0,
+            0,
+            64,
+            64,
+            70,
+            32,
+            31,
+            29
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Genesis",
+          "rarity": "Legendary",
+          "bytes": [
+            5,
+            0,
+            0,
+            64,
+            64,
+            106,
+            32,
+            31,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Body",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Classic",
+          "rarity": "Common",
+          "bytes": [
+            163,
+            14,
+            36,
+            50,
+            36,
+            60,
+            64,
+            4,
+            64
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Street",
+          "rarity": "Common",
+          "bytes": [
+            163,
+            11,
+            37,
+            53,
+            37,
+            61,
+            64,
+            3,
+            64
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Gym",
+          "rarity": "Uncommon",
+          "bytes": [
+            163,
+            10,
+            36,
+            54,
+            36,
+            61,
+            64,
+            3,
+            64
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Jersey",
+          "rarity": "Rare",
+          "bytes": [
+            163,
+            12,
+            36,
+            52,
+            36,
+            59,
+            64,
+            5,
+            64
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Moon Suit",
+          "rarity": "Epic",
+          "bytes": [
+            163,
+            10,
+            36,
+            54,
+            36,
+            61,
+            64,
+            3,
+            64
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Champion",
+          "rarity": "Legendary",
+          "bytes": [
+            163,
+            9,
+            35,
+            55,
+            35,
+            62,
+            64,
+            2,
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Skin",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Tan",
+          "rarity": "Common",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Sunlit",
+          "rarity": "Common",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bronze",
+          "rarity": "Uncommon",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Deep",
+          "rarity": "Rare",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Pale",
+          "rarity": "Epic",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Blue",
+          "rarity": "Legendary",
+          "bytes": [
+            3,
+            27,
+            32,
+            10,
+            13,
+            0,
+            29,
+            33,
+            6,
+            11,
+            227,
+            7,
+            39,
+            9,
+            15,
+            224,
+            9,
+            41,
+            7,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Clothing",
+      "traits": [
+        {
+          "id": 0,
+          "name": "BRO Tee",
+          "rarity": "Common",
+          "bytes": [
+            179,
+            17,
+            42,
+            47,
+            42,
+            53,
+            64,
+            11,
+            64
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Hoodie",
+          "rarity": "Common",
+          "bytes": [
+            164,
+            15,
+            41,
+            49,
+            41,
+            56,
+            64,
+            8,
+            64
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Jersey",
+          "rarity": "Uncommon",
+          "bytes": [
+            179,
+            16,
+            41,
+            48,
+            41,
+            54,
+            64,
+            10,
+            64
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Green Tee",
+          "rarity": "Rare",
+          "bytes": [
+            179,
+            16,
+            41,
+            48,
+            41,
+            54,
+            64,
+            10,
+            64
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Moon",
+          "rarity": "Epic",
+          "bytes": [
+            163,
+            14,
+            40,
+            50,
+            40,
+            57,
+            64,
+            7,
+            64
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Gold Vest",
+          "rarity": "Legendary",
+          "bytes": [
+            163,
+            14,
+            40,
+            50,
+            40,
+            57,
+            64,
+            7,
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Accessory",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Gold Chain",
+          "rarity": "Common",
+          "bytes": [
+            202,
+            22,
+            39,
+            32,
+            49,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Chain",
+          "rarity": "Common",
+          "bytes": [
+            202,
+            22,
+            39,
+            32,
+            49,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 2,
+          "name": "BRO Coin",
+          "rarity": "Uncommon",
+          "bytes": [
+            202,
+            22,
+            39,
+            32,
+            48,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Double",
+          "rarity": "Rare",
+          "bytes": [
+            203,
+            21,
+            38,
+            32,
+            48,
+            43,
+            38
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Diamond",
+          "rarity": "Epic",
+          "bytes": [
+            202,
+            21,
+            38,
+            32,
+            47,
+            43,
+            38
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Cronos",
+          "rarity": "Legendary",
+          "bytes": [
+            198,
+            21,
+            38,
+            32,
+            47,
+            43,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Face",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Classic",
+          "rarity": "Common",
+          "bytes": [
+            163,
+            16,
+            12,
+            48,
+            12,
+            46,
+            35,
+            32,
+            42,
+            160,
+            19,
+            14,
+            45,
+            14,
+            43,
+            33,
+            32,
+            39
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Jaw",
+          "rarity": "Common",
+          "bytes": [
+            163,
+            15,
+            12,
+            49,
+            12,
+            47,
+            36,
+            32,
+            42,
+            160,
+            18,
+            14,
+            46,
+            14,
+            44,
+            34,
+            32,
+            39
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chibi",
+          "rarity": "Uncommon",
+          "bytes": [
+            163,
+            18,
+            13,
+            46,
+            13,
+            44,
+            34,
+            32,
+            40,
+            160,
+            21,
+            15,
+            43,
+            15,
+            42,
+            32,
+            32,
+            37
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Beard",
+          "rarity": "Rare",
+          "bytes": [
+            163,
+            16,
+            12,
+            48,
+            12,
+            46,
+            36,
+            32,
+            42,
+            160,
+            19,
+            14,
+            45,
+            14,
+            43,
+            32,
+            32,
+            37
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Blue",
+          "rarity": "Epic",
+          "bytes": [
+            163,
+            16,
+            12,
+            48,
+            12,
+            46,
+            35,
+            32,
+            42,
+            160,
+            19,
+            14,
+            45,
+            14,
+            43,
+            33,
+            32,
+            39
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Gold",
+          "rarity": "Legendary",
+          "bytes": [
+            191,
+            16,
+            12,
+            48,
+            12,
+            46,
+            35,
+            32,
+            42,
+            170,
+            19,
+            14,
+            45,
+            14,
+            43,
+            33,
+            32,
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Eyes",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Bright",
+          "rarity": "Common",
+          "bytes": [
+            243,
+            22,
+            23,
+            5,
+            3
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Focused",
+          "rarity": "Common",
+          "bytes": [
+            240,
+            22,
+            23,
+            5,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Happy",
+          "rarity": "Uncommon",
+          "bytes": [
+            244,
+            22,
+            23,
+            5,
+            3
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Stars",
+          "rarity": "Rare",
+          "bytes": [
+            234,
+            22,
+            22,
+            5,
+            4
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Coin",
+          "rarity": "Epic",
+          "bytes": [
+            234,
+            22,
+            22,
+            5,
+            4
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Laser",
+          "rarity": "Legendary",
+          "bytes": [
+            238,
+            22,
+            23,
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Brows",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Straight",
+          "rarity": "Common",
+          "bytes": [
+            244,
+            22,
+            18,
+            7,
+            2
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Raised",
+          "rarity": "Common",
+          "bytes": [
+            244,
+            22,
+            17,
+            7,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bro",
+          "rarity": "Uncommon",
+          "bytes": [
+            243,
+            22,
+            18,
+            7,
+            2
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Arch",
+          "rarity": "Rare",
+          "bytes": [
+            244,
+            22,
+            17,
+            7,
+            2
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Gold",
+          "rarity": "Epic",
+          "bytes": [
+            234,
+            22,
+            18,
+            7,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Mouth",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Smile",
+          "rarity": "Common",
+          "bytes": [
+            212,
+            24,
+            30,
+            32,
+            34,
+            40,
+            30
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Smirk",
+          "rarity": "Common",
+          "bytes": [
+            212,
+            25,
+            31,
+            33,
+            33,
+            39,
+            29
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Grin",
+          "rarity": "Uncommon",
+          "bytes": [
+            180,
+            23,
+            29,
+            41,
+            29,
+            39,
+            36,
+            25,
+            36
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Tongue",
+          "rarity": "Rare",
+          "bytes": [
+            180,
+            23,
+            29,
+            41,
+            29,
+            39,
+            36,
+            25,
+            36
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Grill",
+          "rarity": "Epic",
+          "bytes": [
+            179,
+            23,
+            29,
+            41,
+            29,
+            39,
+            35,
+            25,
+            35
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Laugh",
+          "rarity": "Legendary",
+          "bytes": [
+            179,
+            22,
+            29,
+            42,
+            29,
+            39,
+            37,
+            25,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Hair",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Sweep",
+          "rarity": "Common",
+          "bytes": [
+            180,
+            17,
+            16,
+            23,
+            5,
+            34,
+            12,
+            29,
+            16
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Spikes",
+          "rarity": "Common",
+          "bytes": [
+            147,
+            18,
+            16,
+            24,
+            5,
+            28,
+            16
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Crop",
+          "rarity": "Uncommon",
+          "bytes": [
+            20,
+            20,
+            11,
+            24,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Blond",
+          "rarity": "Rare",
+          "bytes": [
+            171,
+            18,
+            16,
+            23,
+            5,
+            35,
+            10,
+            31,
+            17
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Blue",
+          "rarity": "Epic",
+          "bytes": [
+            134,
+            18,
+            17,
+            24,
+            7,
+            29,
+            17
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Gold",
+          "rarity": "Legendary",
+          "bytes": [
+            138,
+            18,
+            17,
+            25,
+            3,
+            30,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Headwear",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Blue Cap",
+          "rarity": "Common",
+          "bytes": [
+            164,
+            16,
+            12,
+            48,
+            12,
+            45,
+            5,
+            19,
+            5,
+            6,
+            17,
+            8,
+            29,
+            7
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Snapback",
+          "rarity": "Common",
+          "bytes": [
+            164,
+            16,
+            12,
+            48,
+            12,
+            45,
+            5,
+            19,
+            5,
+            6,
+            17,
+            8,
+            29,
+            7
+          ]
+        },
+        {
+          "id": 2,
+          "name": "CRO Cap",
+          "rarity": "Uncommon",
+          "bytes": [
+            179,
+            16,
+            12,
+            48,
+            12,
+            45,
+            5,
+            19,
+            5,
+            6,
+            17,
+            8,
+            29,
+            7
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Moon Hat",
+          "rarity": "Rare",
+          "bytes": [
+            164,
+            16,
+            13,
+            48,
+            13,
+            45,
+            5,
+            19,
+            5,
+            7,
+            18,
+            8,
+            28,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Crown",
+          "rarity": "Epic",
+          "bytes": [
+            170,
+            18,
+            14,
+            46,
+            14,
+            44,
+            5,
+            38,
+            11,
+            139,
+            18,
+            14,
+            20,
+            3,
+            25,
+            14
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Halo",
+          "rarity": "Legendary",
+          "bytes": [
+            106,
+            32,
+            9,
+            15,
+            107,
+            32,
+            9,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Eyewear",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Coin Shades",
+          "rarity": "Common",
+          "bytes": [
+            243,
+            18,
+            22,
+            11,
+            7,
+            234,
+            21,
+            24,
+            5,
+            4
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Shades",
+          "rarity": "Uncommon",
+          "bytes": [
+            243,
+            18,
+            22,
+            11,
+            7,
+            241,
+            21,
+            23,
+            5,
+            1
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Coin Lens",
+          "rarity": "Rare",
+          "bytes": [
+            243,
+            18,
+            22,
+            11,
+            7,
+            234,
+            21,
+            24,
+            5,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Blue Lens",
+          "rarity": "Epic",
+          "bytes": [
+            243,
+            18,
+            22,
+            11,
+            7,
+            232,
+            21,
+            24,
+            5,
+            4
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Gold",
+          "rarity": "Legendary",
+          "bytes": [
+            234,
+            17,
+            21,
+            13,
+            8,
+            243,
+            21,
+            24,
+            5,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Hand",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Fist",
+          "rarity": "Common",
+          "bytes": [
+            160,
+            5,
+            41,
+            16,
+            38,
+            21,
+            47,
+            17,
+            53
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Fist Bump",
+          "rarity": "Common",
+          "bytes": [
+            160,
+            4,
+            41,
+            17,
+            38,
+            22,
+            48,
+            16,
+            54
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Thumbs",
+          "rarity": "Uncommon",
+          "bytes": [
+            160,
+            8,
+            39,
+            14,
+            39,
+            15,
+            48,
+            8,
+            48
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Coin",
+          "rarity": "Rare",
+          "bytes": [
+            160,
+            6,
+            42,
+            17,
+            39,
+            22,
+            50,
+            17,
+            54
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Diamond",
+          "rarity": "Epic",
+          "bytes": [
+            166,
+            5,
+            42,
+            16,
+            40,
+            21,
+            49,
+            16,
+            54
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Candle",
+          "rarity": "Legendary",
+          "bytes": [
+            172,
+            5,
+            42,
+            16,
+            40,
+            21,
+            49,
+            16,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Special",
+      "traits": [
+        {
+          "id": 0,
+          "name": "Chill",
+          "rarity": "Common",
+          "bytes": [
+            104,
+            6,
+            7,
+            2
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Coins",
+          "rarity": "Uncommon",
+          "bytes": [
+            74,
+            8,
+            14,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Pump",
+          "rarity": "Rare",
+          "bytes": [
+            13,
+            4,
+            17,
+            2,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Burst",
+          "rarity": "Epic",
+          "bytes": [
+            136,
+            2,
+            21,
+            8,
+            18,
+            6,
+            28
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Aura",
+          "rarity": "Legendary",
+          "bytes": [
+            106,
+            32,
+            31,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Legendary",
+      "traits": [
+        {
+          "id": 0,
+          "name": "None",
+          "rarity": "Common",
+          "bytes": []
+        },
+        {
+          "id": 1,
+          "name": "Diamonds",
+          "rarity": "Legendary",
+          "bytes": [
+            10,
+            1,
+            1,
+            62,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Moonshot",
+          "rarity": "Legendary",
+          "bytes": [
+            6,
+            1,
+            1,
+            62,
+            2
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Genesis",
+          "rarity": "Legendary",
+          "bytes": [
+            11,
+            1,
+            1,
+            62,
+            2
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Champion",
+          "rarity": "Legendary",
+          "bytes": [
+            9,
+            1,
+            1,
+            62,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "name": "1/1",
+          "rarity": "1/1",
+          "bytes": [
+            10,
+            0,
+            0,
+            64,
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "ONE_OF_ONE_CONFIGS": [
+    {
+      "title": "The First Fist Bump",
+      "layers": [
+        7,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        4,
+        5,
+        5,
+        5,
+        0,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Candle King",
+      "layers": [
+        6,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        0,
+        4,
+        0,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "Moonshot Bro",
+      "layers": [
+        7,
+        3,
+        2,
+        3,
+        3,
+        3,
+        5,
+        4,
+        3,
+        0,
+        3,
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Genesis OG",
+      "layers": [
+        4,
+        2,
+        5,
+        4,
+        2,
+        2,
+        3,
+        2,
+        4,
+        2,
+        0,
+        1,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Diamond Hands",
+      "layers": [
+        5,
+        4,
+        4,
+        5,
+        5,
+        4,
+        2,
+        1,
+        5,
+        0,
+        4,
+        2,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "Cronos Champion",
+      "layers": [
+        6,
+        5,
+        5,
+        4,
+        4,
+        5,
+        2,
+        0,
+        3,
+        4,
+        0,
+        3,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Golden Bro",
+      "layers": [
+        7,
+        4,
+        4,
+        5,
+        3,
+        5,
+        1,
+        4,
+        0,
+        5,
+        5,
+        0,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Green Candle Rider",
+      "layers": [
+        3,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2,
+        4,
+        3,
+        0,
+        1,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Bro of the Moon",
+      "layers": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        0,
+        1,
+        0,
+        2,
+        4,
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "title": "The HODLer",
+      "layers": [
+        5,
+        5,
+        3,
+        4,
+        5,
+        4,
+        5,
+        3,
+        2,
+        3,
+        4,
+        0,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "CRO Celebrity",
+      "layers": [
+        6,
+        3,
+        5,
+        3,
+        4,
+        5,
+        4,
+        4,
+        4,
+        4,
+        0,
+        0,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Bro Code Founder",
+      "layers": [
+        4,
+        4,
+        0,
+        2,
+        2,
+        1,
+        2,
+        0,
+        3,
+        0,
+        3,
+        3,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Fist Bump Legend",
+      "layers": [
+        7,
+        5,
+        4,
+        5,
+        5,
+        3,
+        5,
+        4,
+        5,
+        0,
+        3,
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Blue Cap OG",
+      "layers": [
+        1,
+        3,
+        3,
+        1,
+        3,
+        2,
+        4,
+        2,
+        4,
+        3,
+        1,
+        2,
+        2,
+        1,
+        5
+      ]
+    },
+    {
+      "title": "Bro Code Royal",
+      "layers": [
+        6,
+        4,
+        5,
+        4,
+        4,
+        4,
+        2,
+        0,
+        5,
+        0,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Coin Shades King",
+      "layers": [
+        2,
+        5,
+        2,
+        5,
+        4,
+        5,
+        3,
+        4,
+        3,
+        4,
+        5,
+        0,
+        5,
+        1,
+        5
+      ]
+    },
+    {
+      "title": "Blue Burst Bro",
+      "layers": [
+        5,
+        2,
+        4,
+        3,
+        5,
+        4,
+        2,
+        3,
+        2,
+        0,
+        2,
+        0,
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "Pump Run Champion",
+      "layers": [
+        3,
+        4,
+        1,
+        4,
+        3,
+        1,
+        2,
+        0,
+        4,
+        2,
+        0,
+        3,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Gold Chain Genesis",
+      "layers": [
+        7,
+        5,
+        5,
+        5,
+        4,
+        5,
+        2,
+        2,
+        1,
+        2,
+        5,
+        4,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The Brotender",
+      "layers": [
+        4,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "BROS 2121",
+      "layers": [
+        6,
+        5,
+        4,
+        5,
+        5,
+        5,
+        2,
+        4,
+        5,
+        5,
+        5,
+        4,
+        5,
+        4,
+        5
+      ]
+    }
+  ],
+  "TIER_NAMES": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic",
+    "Legendary",
+    "1/1"
+  ],
+  "layerBaseIndex": [
+    0,
+    8,
+    14,
+    20,
+    26,
+    32,
+    38,
+    44,
+    49,
+    55,
+    61,
+    67,
+    72,
+    78,
+    83,
+    89
+  ],
+  "offsets": {
+    "OFF_SVG": 0,
+    "OFF_STR": 930,
+    "OFF_SPEC": 2371,
+    "OFF_PAL": 2539,
+    "OFF_SKIN": 2611,
+    "OFF_LBASE": 2635
+  },
+  "stats": {
+    "romTotalBytes": 2651,
+    "svgDictByteLength": 930,
+    "traitNameByteLength": 609,
+    "catAndTierByteLength": 159,
+    "templateByteLength": 673,
+    "specialConfigsByteLength": 168,
+    "paletteByteLength": 96,
+    "layerBaseByteLength": 16
+  }
+}
